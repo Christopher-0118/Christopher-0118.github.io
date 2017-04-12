@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #151515;  
+}
+
+#instructions {
+    float: left;
+    font-family: sans-serif;
+    color: #757575;
+}
